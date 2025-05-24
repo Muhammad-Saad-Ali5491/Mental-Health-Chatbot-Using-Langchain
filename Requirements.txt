@@ -1,0 +1,14 @@
+langchain-core langchain-community
+!pip install langchain_google_genai
+!pip install Ipython
+
+import os
+import langchain_google_genai as genai
+from langchain.prompts import ChatPromptTemplate,MessagesPlaceholder
+from langchain.memory import ConversationBufferMemory,ConversationBufferWindowMemory
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnablePassthrough
+from IPython.display import display, Markdown
+
+!pip install -q gradio
+import gradio as gr
