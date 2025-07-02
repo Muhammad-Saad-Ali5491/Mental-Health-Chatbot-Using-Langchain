@@ -131,4 +131,4 @@ This chatbot:
 
 ## 📜 License
 
-This project is open-source. You are free to modify or distribute it **non-commercially**, with appropriate attribution.
+This project is open-source. Under the [MIT LICENSE](LICENSE)
