@@ -1,6 +1,6 @@
 
 
-# 🧠 Mental Health Chatbot – *Hassan ka Dost*
+# 🧠 Mental Health Chatbot 
 
 This is a multilingual, AI-powered mental health support chatbot that uses **LangChain**, **Google Gemini (Generative AI)**, and **Gradio** to provide compassionate and ethical support in English, Urdu, and Roman Urdu. It is designed to help users with stress, anxiety, depression, and self-care strategies in a safe and supportive environment.
 
